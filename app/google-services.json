@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444601040292",
+    "project_id": "login-register-firebase-da4f4",
+    "storage_bucket": "login-register-firebase-da4f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444601040292:android:a61bb9a58b47fbe4499531",
+        "android_client_info": {
+          "package_name": "com.example.medplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444601040292-90rkhbi0p5ajml8fs9h79k00sd4952rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x5ip8HO5KuM1fpC3xEQ1WMMDvyxbFfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444601040292-90rkhbi0p5ajml8fs9h79k00sd4952rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
